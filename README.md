@@ -7,7 +7,7 @@ A web app where you paste raw JSON log output (from any server, Lambda, Docker, 
 
 ## Quick Start
 ```bash
-git clone https://github.com/yourusername/LogLens
+git clone https://github.com/MrHassan2027/LogLens
 cd LogLens
 npm install
 npm run dev
